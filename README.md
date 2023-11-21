@@ -1,9 +1,7 @@
 <h2>Olá! Me chamo Ronald da Silva 👋</h2>
-<hr>
 
 - 👨‍💻 Atualmente trabalho como analista de suporte | INFOCAP
 - 📚 No momento estou estudando sobre Angular
-<hr>
 
 ### Tecnologias
 
